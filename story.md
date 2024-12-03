@@ -19,3 +19,7 @@ before he’d made the risky edits.
 
 A wave of relief washed over him as he saw his work preserved. With a few quick commands, 
 Jason restored his project to its last saved state. It wasn’t the latest version, but it was something. It was progress.
+
+He let out a long breath, grateful that Git had saved him once again. He quickly made a new commit, 
+this time including a message to remind himself of the close call.
+"Git to the rescue," Jason smiled to himself, feeling a renewed sense of determination as he got back to work.
