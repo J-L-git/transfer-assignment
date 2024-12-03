@@ -12,7 +12,7 @@ and he quickly opened his terminal. But as he stared at the prompt, a sinking fe
 The terminal showed a message that confirmed his worst fear: Uncommitted changes. 
 The progress he had made today, potentially lost.
 
-Then, like a lightbulb turning on, Jason remembered—Git had a history. A backup of his work, something he could rely on.
+Then, like a lamp turning on, Jason remembered—Git had a history. A backup of his work, something he could rely on.
 He quickly started searching through the commit logs, hoping there was something recent enough to restore. 
 His hands shook as he scrolled through the history, until he finally found it—the last stable commit 
 before he’d made the risky edits.
