@@ -16,3 +16,6 @@ Then, like a lightbulb turning on, Jason remembered—Git had a history. A backu
 He quickly started searching through the commit logs, hoping there was something recent enough to restore. 
 His hands shook as he scrolled through the history, until he finally found it—the last stable commit 
 before he’d made the risky edits.
+
+A wave of relief washed over him as he saw his work preserved. With a few quick commands, 
+Jason restored his project to its last saved state. It wasn’t the latest version, but it was something. It was progress.
